@@ -33,7 +33,7 @@ export default function Sidebar() {
       <div className="px-5 py-5 border-b border-border">
         <div className="flex items-center gap-2.5">
           <div className="w-8 h-8 rounded-lg bg-accent flex items-center justify-center shadow-accent">
-            <Zap size={16} className="text-white" />
+            <Zap size={16} className="text-bg" />
           </div>
           <div>
             <div className="font-bold text-text-primary text-sm leading-none">ViralFlow</div>
